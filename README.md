@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning .NET, Flutter, GoLang
   
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssbreno&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamjayjay&show_icons=true&theme=react" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbreno&layout=compact&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamjayjay&layout=compact&theme=react" />
 </span>
